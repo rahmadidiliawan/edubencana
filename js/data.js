@@ -155,7 +155,7 @@ const daftarLagu = {
             },
             {
                 teks: "ikuti ____ orang dewasa",
-                jawaban: "petunjuk"
+                jawaban: "PETUNJUK"
             },
             {
                 teks: "menuju titik ____",
