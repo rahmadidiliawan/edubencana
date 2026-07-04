@@ -76,9 +76,6 @@ const daftarLagu = {
                 teks: "gunung bukan musuh yang kejam"
             },
             {
-                teks: "ia hanya butuh kita paham"
-            },
-            {
                 teks: "dengan ilmu dan ____ ",
                 jawaban: "KESIAPAN"
             },
@@ -104,31 +101,76 @@ const daftarLagu = {
         lirik: [
 
             {
-                teks: "Lindungi diri saat bumi berguncang"
+                teks: "Kalau bumi mulai ____",
+                jawaban: "BERGOYANG"
             },
 
             {
-                teks: "Jangan panik tetaplah tenang"
+                teks: "Kita jangan langsung ____",
+                jawaban: "PANIK"
             },
 
             {
-                teks: "Segera ____ di bawah meja",
-                jawaban: "BERLINDUNG"
+                teks: "Tetap tenang jangan ____",
+                jawaban: "BERLARI"
             },
 
             {
-                teks: "Setelah reda segera menuju ____",
-                jawaban: "LAPANGAN"
+                teks: "Cari tempat yang paling ____",
+                jawaban: "AMAN"
             },
             {
-                teks: "____ evakuasi harus kita tahu",
-                jawaban: "ARAH"
+                teks: "Lindungi ____ dengan tangan",
+                jawaban: "KEPALA"
             },
             {
-                teks: "Kawasan ____ bencana wajib tahu",
-                jawaban: "RAWAN"
-
+                teks: "Berlindung di bawah ____",
+                jawaban: "MEJA"
             },
+            {
+                teks: "Jauhkan diri dari ____",
+                jawaban: "KACA"
+            },
+            {
+                teks: "agar kita tetap selamat",
+            },
+            {
+                teks: "Ayo siaga gempa",
+            },
+            {
+                teks: "kita harus waspada"
+            },
+            {
+                teks: "Ayo Siaga gempa",
+            },
+            {
+                teks: "Selamatkan semua jiwa"
+            },
+            {
+                teks: "Setelah ____ berhenti",
+                jawaban: "GUNCANGAN"
+            },
+            {
+                teks: "Keluar rumah pelan-pelan",
+            },
+            {
+                teks: "ikuti ____ orang dewasa",
+                jawaban: "petunjuk"
+            },
+            {
+                teks: "menuju titik ____",
+                jawaban: "EVAKUASI"
+            },
+            {
+                teks: "belajar dari sekarang",
+            },
+            {
+                teks: "agar kita siap selalu",
+            },
+            {
+                teks: "belajar bersama kita pasti bisa",
+            },
+        
 
         ]
 
