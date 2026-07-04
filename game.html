@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Edubencana Interactive</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/game.css">
+
+</head>
+
+<body>
+
+<div class="game-card">
+
+    <!-- ========================= -->
+    <!-- HEADER -->
+    <!-- ========================= -->
+
+    <div class="game-header">
+
+        <h1 id="judulGame">
+            Judul Lagu
+        </h1>
+
+        <div class="score">
+
+            ⭐ Skor :
+            <span id="score">0</span>
+
+        </div>
+
+    </div>
+
+    <!-- ========================= -->
+    <!-- TIMER -->
+    <!-- ========================= -->
+
+    <div class="timer-box">
+
+        ⏱️ Waktu :
+        <span id="timer">05:00</span>
+
+    </div>
+
+    <!-- ========================= -->
+    <!-- PETUNJUK -->
+    <!-- ========================= -->
+
+    <h2>Tebak Lirik Lagu</h2>
+
+    <p>
+        Dengarkan lagu, kemudian lengkapi bagian lirik yang kosong.
+    </p>
+
+    <!-- ========================= -->
+    <!-- AUDIO -->
+    <!-- ========================= -->
+
+    <div class="audio-box">
+
+        <button
+            id="playButton"
+            class="play-btn">
+
+            🎵 Putar Lagu
+
+        </button>
+
+        <audio id="audioPlayer" controls>
+
+            Browser Anda tidak mendukung audio.
+
+        </audio>
+
+    </div>
+
+    <!-- ========================= -->
+    <!-- LIRIK -->
+    <!-- Diisi otomatis oleh game.js -->
+    <!-- ========================= -->
+
+    <div
+        id="lirikContainer"
+        class="lyric-box">
+
+    </div>
+
+    <!-- ========================= -->
+    <!-- TOMBOL -->
+    <!-- ========================= -->
+
+    <button
+        id="checkButton"
+        class="check-btn">
+
+        ✅ PERIKSA JAWABAN
+
+    </button>
+
+</div>
+
+<!-- ========================= -->
+<!-- JAVASCRIPT -->
+<!-- ========================= -->
+
+<script src="js/data.js"></script>
+
+<script src="js/game.js"></script>
+
+</body>
+
+</html>
