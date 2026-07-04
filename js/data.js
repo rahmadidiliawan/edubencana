@@ -76,6 +76,9 @@ const daftarLagu = {
                 teks: "gunung bukan musuh yang kejam"
             },
             {
+                teks: "ia hanya butuh kita paham"
+            },
+            {
                 teks: "dengan ilmu dan ____ ",
                 jawaban: "KESIAPAN"
             },
