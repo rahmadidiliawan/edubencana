@@ -279,24 +279,128 @@ const daftarLagu = {
 
         lirik: [
 
+            
             {
-                teks: "LIRIK LAGU SEDANG DALAM PENGEMBANGAN"
+                teks: "Sebelum ____ turun di sini",
+                jawaban: "HUJAN"
             },
 
             {
-                teks: "Jangan buang sampah sembarangan"
+                teks: "ayo bersiap dari sekarang ini"
             },
 
             {
-                teks: "Bersihkan saluran ____",
-                jawaban: "AIR"
+                teks: "Bersihkan selokan di depan rumah",
+                jawaban: "SELOKAN"
+            },
+            
+            {
+                teks: "jangan buang sampah sembarangan ya"
+            },
+            
+            {
+                teks: "siapkan senter dan juga ____ siaga",
+                jawaban: "TAS"
             },
 
             {
-                teks: "Segera mengungsi ke tempat ____",
-                jawaban: "AMAN"
-            }
+                teks: "air minum obat masuk ke dalamnya"
+            },
+            
+            {
+                teks: "kalau kita siap sejak awal hari"
+            },
+            
+            {
+                teks: "banjir datang kita tak takut lagi"
+            },
 
+            {
+                teks: "ayo siap ayo siap"
+            },
+
+            {
+                teks: "hadapi banjir bersama"
+            },
+
+            {
+                teks: "dengar ____ guru dan juga orangtua",
+                jawabanL "NASEHAT"
+            },
+
+            {
+                teks: "sebelum saat dan setelah banjir tiba"
+            },
+            
+            {
+                teks: "anak cerdas tahu cara menjaga dirinya"
+            },
+
+            {
+                teks: "air mulai ____ sampai halaman",
+                jawabanL "NAIK"
+            },
+
+            {
+                teks: "tetap tenang jangan panik kawan"
+            },
+
+            {
+                teks: "matikan listrik agar aman semua"
+            },
+
+            {
+                teks: "lalu pergi ke tempat tinggi bersama"
+            },
+
+            {
+                teks: "pegang tangan ayah atau ibu"
+            },
+
+            {
+                teks: "ikuti arahan petugas dulu"
+            },
+
+            {
+                teks: "jangan bermain air banjir ya"
+            },
+
+            {
+                teks: "karena kotor dan berbahaya"
+            },
+            
+            {
+                teks: "air sudah surut kita bersihkan rumah"
+            },
+
+            {
+                teks: "sapu dan pel lantai yang terkena lumpur"
+            },
+
+            {
+                teks: "cuci tangan pakai sabun bersih"
+            },
+
+            {
+                teks: "supaya badan tetap sehat kembali"
+            },
+
+            {
+                teks: "buang sampah pada tempatnya lagi"
+            },
+
+            {
+                teks: "jaga sungai dan lingkungan kita"
+            },
+
+            {
+                teks: "kalau kita selalu peduli"
+            },
+
+            {
+                teks: "banjir bisa kita kurangi"
+            },
+            
         ]
 
     },
