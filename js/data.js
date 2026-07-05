@@ -280,7 +280,7 @@ const daftarLagu = {
         lirik: [
 
             {
-                teks: "Hujan deras turun sepanjang hari"
+                teks: "LIRIK LAGU SEDANG DALAM PENGEMBANGAN"
             },
 
             {
@@ -314,7 +314,7 @@ const daftarLagu = {
         lirik: [
 
             {
-                teks: "Bukit hijau harus dijaga"
+                teks: "LIRIK LAGU SEDANG DALAM PENGEMBANGAN"
             },
 
             {
@@ -347,7 +347,7 @@ const daftarLagu = {
         lirik: [
 
             {
-                teks: "jangan bakar hutan"
+                teks: "LIRIK LAGU SEDANG DALAM PENGEMBANGAN"
             },
 
             {
@@ -374,7 +374,7 @@ const daftarLagu = {
         audio: "assets/audio/siaga-banjirbandang.mp3",
         lirik: [
             {
-                teks: "banjir bandang"
+                teks: "LIRIK LAGU SEDANG DALAM PENGEMBANGAN"
             },
             {
                 teks: "harus ____________",
