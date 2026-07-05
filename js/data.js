@@ -346,11 +346,13 @@ const daftarLagu = {
             },
 
             {
-                teks: "matikan listrik agar aman semua"
+                teks: "matikan ____ agar aman semua",
+                jawaban: "LISTRIK"
             },
 
             {
-                teks: "lalu pergi ke tempat tinggi bersama"
+                teks: "lalu pergi ke tempat ____ bersama",
+                jawaban: "TINGGI"
             },
 
             {
@@ -366,7 +368,8 @@ const daftarLagu = {
             },
 
             {
-                teks: "karena kotor dan berbahaya"
+                teks: "karena ____ dan berbahaya",
+                jawaban: "KOTOR"
             },
             
             {
@@ -378,7 +381,8 @@ const daftarLagu = {
             },
 
             {
-                teks: "cuci tangan pakai sabun bersih"
+                teks: "cuci tangan pakai ____ bersih",
+                jawaban: "SABUN"
             },
 
             {
@@ -390,7 +394,8 @@ const daftarLagu = {
             },
 
             {
-                teks: "jaga sungai dan lingkungan kita"
+                teks: "____ sungai dan lingkungan kita",
+                jawaban: "JAGA"
             },
 
             {
