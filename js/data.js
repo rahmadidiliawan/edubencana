@@ -320,12 +320,12 @@ const daftarLagu = {
             },
 
             {
-                teks: "hadapi banjir bersama"
+                teks: "hadapi banjir bersama",
             },
 
             {
                 teks: "dengar ____ guru dan juga orangtua",
-                jawabanL "NASEHAT"
+                jawaban: "NASEHAT"
             },
 
             {
@@ -338,7 +338,7 @@ const daftarLagu = {
 
             {
                 teks: "air mulai ____ sampai halaman",
-                jawabanL "NAIK"
+                jawaban: "NAIK"
             },
 
             {
