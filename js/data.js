@@ -290,7 +290,7 @@ const daftarLagu = {
             },
 
             {
-                teks: "Bersihkan selokan di depan rumah",
+                teks: "Bersihkan ____ di depan rumah",
                 jawaban: "SELOKAN"
             },
             
