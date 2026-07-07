@@ -434,6 +434,14 @@ const daftarLagu = {
             },
 
             {
+                teks: "saluran air harus lancar"
+            },
+
+            {
+                teks: "agar tanah tak jenuh air"
+            },
+
+            {
                 teks: "Hujan turun semakin ____",
                 jawaban: "DERAS"
             },
