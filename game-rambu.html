@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Susun Rambu - Edubencana</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Logo -->
+    <div class="header-logo">
+        <img src="assets/logo/edubencana.png" alt="Edubencana">
+    </div>
+
+    <h1>🧩 SUSUN RAMBU</h1>
+
+    <!-- Progress -->
+    <h2 id="progress">
+        Rambu 1 / 10
+    </h2>
+
+    <!-- Timer -->
+    <div class="timer-box">
+        ⏱️ Waktu :
+        <span id="timer">00:00</span>
+    </div>
+
+    <!-- Skor -->
+    <div class="score-box">
+        ⭐ Skor :
+        <span id="score">0</span>
+    </div>
+
+    <hr>
+
+    <!-- Puzzle -->
+
+    <div id="puzzleArea">
+
+        <canvas id="canvasPuzzle"
+                width="320"
+                height="320">
+        </canvas>
+
+    </div>
+
+    <div id="pertanyaan" style="display:none; margin-top:20px;">
+
+    <h3>Apa arti rambu ini?</h3>
+
+    <div id="pilihanJawaban"></div>
+
+</div>
+
+    <br>
+
+    <p id="petunjuk">
+        Susun gambar menjadi utuh.
+    </p>
+
+    <!-- Tombol sementara -->
+
+    <button id="cekPuzzle">
+        ✅ Puzzle Selesai
+    </button>
+
+    <br><br>
+
+    <!-- Quiz -->
+
+    <div id="quizArea" style="display:none;">
+
+        <h2>
+            Apa arti rambu ini?
+        </h2>
+
+        <div id="pilihanJawaban">
+
+        </div>
+
+    </div>
+
+    <!-- Footer -->
+
+    <div class="footer-sponsor">
+
+        <p>Didukung oleh</p>
+
+        <img src="assets/logo/sponsor.png">
+
+        <img src="assets/logo/sponsor.png">
+
+        <img src="assets/logo/sponsor.png">
+
+        <p></p>
+
+        <p>developed by: diliawan</p>
+
+    </div>
+
+</div>
+
+<!-- Data -->
+
+<script src="js/data-rambu.js"></script>
+
+<!-- Game -->
+
+<script src="js/game-rambu.js"></script>
+
+</body>
+
+</html>
