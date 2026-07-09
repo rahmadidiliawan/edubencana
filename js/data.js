@@ -517,21 +517,93 @@ const daftarLagu = {
         lirik: [
 
             {
-                teks: "LIRIK LAGU SEDANG DALAM PENGEMBANGAN"
+                teks: "Pagi cerah di hutan hijau"
             },
 
             {
-                teks: "bisa karthutla"
+                teks: "burung bernyanyi riang selalu"
             },
 
             {
-                teks: "mari kita selamatkan ____",
-                jawaban: "HUTAN"
+                teks: "hutan memberi udara ____",
+                jawaban: "BERSIH"
+            },
+            
+            {
+                teks: "tempat hidup kita semua"
+            },
+            
+            {
+                teks: "jangan ____ saat buka lahan",
+                jawaban: "BAKAR"
             },
 
             {
-                teks: "jaga pohon ____ tebang ",
-                jawaban: "jangan"
+                teks: "api kecil bisa jadi ____",
+                jawaban: "ANCAMAN"
+            },
+
+            {
+                teks: "____ datang api menyebar",
+                jawaban: "ANGIN"
+            },
+
+            {
+                teks: "Hutan habis kitapun sadar"
+            },
+
+            {
+                teks: "Jaga hutan jaga alam"
+            },
+
+            {
+                teks: "Agar tetap hijau dan nyaman"
+            },
+
+            {
+                teks: "cegah ____ sebelum terlambat",
+                jawaban: "API"
+            },
+
+            {
+                teks: "____ harus kita cegah",
+                jawaban: "KARHUTLA"
+            },
+
+            {
+                teks: "Bekas api harus ____",
+                jawaban: "PERHATIKAN"
+            },
+
+            {
+                teks: "api kecil bisa menyala"
+            },
+
+            {
+                teks: "Cepat laporkan ____ api",
+                jawaban: "TITIK"
+            },
+
+            {
+                teks: "supaya bisa ____",
+                jawaban: "DICEGAH"
+            },
+
+            {
+                teks: "bersama kita ____ ingatkan",
+                jawaban: "SALING"
+            },
+
+            {
+                teks: "petani warga semua kawan"
+            },
+
+            {
+                teks: "Hutan lestari masa depan"
+            },
+
+            {
+                teks: "untuk anak cucu kemudian"
             },
         ]
     },
