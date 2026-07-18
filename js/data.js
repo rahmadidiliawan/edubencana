@@ -629,6 +629,84 @@ const daftarLagu = {
         ]
 
     }
+    //=====================
+    // DROP COVER HOLD ON
+    //=====================
+    dropcoverholdon: {
+        judul: "DROP COVER HOLD-ON",
+        audio: "assets/audio/drop-cover-holdon.mp3",
+        lirik: [
+            {
+                teks: "Saat bumi mulai ____",
+                jawaban: "BERGUNCANG"
+            },
+            {
+                teks: "Jangan panik, tetap tenang"
+            },
+            {
+                teks: "Jangan ____ tanpa arah",
+                jawaban: "BERLARI"
+            },
+            {
+                teks: "Keselamatan jadi yang utama",
+            },
+            {
+                teks: "Benda jatuh kaca berhamburan",
+            },
+            {
+                teks: "Lemari roboh mengancam ____",
+                jawaban: "BADAN"
+            },
+            {
+                teks: "Lindungi diri dengan langkah yang tepat",
+            },
+            {
+                teks: "Ingat selalu pesan yang kuat",
+            },
+            {
+                teks: "____ , Rendahkan badanmu",
+                jawaban: "DROP"
+            },
+            {
+                teks: "Agar kuat dan tidak jatuh",
+            },
+            {
+                teks: "____ , lindungi kepala dan lehermu",
+                jawaban: "COVER"
+            },
+            {
+                teks: "dari bahaya yang menghampiri",
+            },
+            {
+                teks: "____ , pegang erat perlindungan",
+                jawaban: "HOLD ON"
+            },
+            {
+                teks: "Meski meja bergeser perlahan",
+            },
+            {
+                teks: "Drop, Cover, Hold on, bersama",
+            },
+            {
+                teks: "Selamatkan ____ saat gempa",
+            },
+            {
+                teks: "berlari keluar ____ tentu aman",
+                jawaban: "BELUM"
+            },
+            {
+                teks: "justru bisa menambah ____",
+                jawaban: "ANCAMAN"
+            },
+            {
+                teks: "tetap di tempat yang melindungi",
+            },
+            {
+                teks: "sampai guncangan benar ____",
+                jawaban: "BERHENTI"
+            },
+        ]
 
+    }
 
 }
