@@ -689,6 +689,7 @@ const daftarLagu = {
             },
             {
                 teks: "Selamatkan ____ saat gempa",
+                jawaban: "JIWA"
             },
             {
                 teks: "berlari keluar ____ tentu aman",
