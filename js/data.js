@@ -619,16 +619,54 @@ const daftarLagu = {
                 teks: "LIRIK LAGU SEDANG DALAM PENGEMBANGAN"
             },
             {
-                teks: "Hujan deras turun di ____________ sana",
+                teks: "Hujan turun ____________ ",
+                jawaban: "deras"
+            },
+            {
+                teks: "di ____________ sana",
                 jawaban: "hulu"
             },
             {
-                teks: "harus ____________",
-                jawaban: "bagaimana"
+                teks: "air sungai _________ berubah warna",
+                jawaban: "naik"
             },
             {
-                teks: "waspadai sungai _________ tiba-tiba",
-                jawaban: "kering"
+                teks: "batu dan _________ turun bersama",
+                jawaban: "lumpur"
+            },
+            {
+                teks: "itulah _________ banjir bandang melanda",
+                jawaban: "tanda"
+            },
+            {
+                teks: "ayo siaga jangan terlambat",
+            },
+            {
+                teks: "Banjir bandang datangnya sangat _________ ",
+                jawaban: "cepat"
+            },
+            {
+                teks: "Tinggalkan sungai naik ke _________ ",
+                jawaban: "dataran"
+            },
+            {
+                teks: "Lindungi _________ selamatkan teman",
+                jawaban: "diri"
+            },
+            {
+                teks: "jangan buang _________ ke sungai",
+                jawaban: "sampah"
+            },
+            {
+                teks: "bisa _________ aliran yang damai",
+                jawaban: "menyumbat"
+            },
+            {
+                teks: "rawat _________ di pegunungan",
+                jawaban: "hutan"
+            },
+            {
+                teks: "itulah cara cegah kerusakan",
             },
         ]
 
