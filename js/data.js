@@ -615,55 +615,53 @@ const daftarLagu = {
         judul: "🏞️ SIAGA BANJIR BANDANG",
         audio: "assets/audio/siaga-banjirbandang.mp3",
         lirik: [
-            {
-                teks: "LIRIK LAGU SEDANG DALAM PENGEMBANGAN"
-            },
+            
             {
                 teks: "Hujan turun ____ ",
-                jawaban: "deras"
+                jawaban: "DERAS"
             },
             {
                 teks: "di ____ sana",
-                jawaban: "hulu"
+                jawaban: "HULU"
             },
             {
                 teks: "air sungai ____ berubah warna",
-                jawaban: "naik"
+                jawaban: "NAIK"
             },
             {
                 teks: "batu dan ____ turun bersama",
-                jawaban: "lumpur"
+                jawaban: "LUMPUR"
             },
             {
                 teks: "itulah ____ banjir bandang melanda",
-                jawaban: "tanda"
+                jawaban: "TANDA"
             },
             {
                 teks: "ayo siaga jangan terlambat",
             },
             {
                 teks: "Banjir bandang datangnya sangat ____ ",
-                jawaban: "cepat"
+                jawaban: "CEPAT"
             },
             {
                 teks: "Tinggalkan sungai naik ke ____ ",
-                jawaban: "dataran"
+                jawaban: "DATARAN"
             },
             {
                 teks: "Lindungi ____ selamatkan teman",
-                jawaban: "diri"
+                jawaban: "DIRI"
             },
             {
                 teks: "jangan buang ____ ke sungai",
-                jawaban: "sampah"
+                jawaban: "SAMPAH"
             },
             {
                 teks: "bisa ____ aliran yang damai",
-                jawaban: "menyumbat"
+                jawaban: "MENYUMBAT"
             },
             {
                 teks: "rawat ____ di pegunungan",
-                jawaban: "hutan"
+                jawaban: "HUTAN"
             },
             {
                 teks: "itulah cara cegah kerusakan",
