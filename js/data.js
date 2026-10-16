@@ -619,6 +619,10 @@ const daftarLagu = {
                 teks: "LIRIK LAGU SEDANG DALAM PENGEMBANGAN"
             },
             {
+                teks: "Hujan deras turun di ____________ sana",
+                jawaban: "hulu"
+            },
+            {
                 teks: "harus ____________",
                 jawaban: "bagaimana"
             },
