@@ -619,50 +619,50 @@ const daftarLagu = {
                 teks: "LIRIK LAGU SEDANG DALAM PENGEMBANGAN"
             },
             {
-                teks: "Hujan turun ____________ ",
+                teks: "Hujan turun ____ ",
                 jawaban: "deras"
             },
             {
-                teks: "di ____________ sana",
+                teks: "di ____ sana",
                 jawaban: "hulu"
             },
             {
-                teks: "air sungai _________ berubah warna",
+                teks: "air sungai ____ berubah warna",
                 jawaban: "naik"
             },
             {
-                teks: "batu dan _________ turun bersama",
+                teks: "batu dan ____ turun bersama",
                 jawaban: "lumpur"
             },
             {
-                teks: "itulah _________ banjir bandang melanda",
+                teks: "itulah ____ banjir bandang melanda",
                 jawaban: "tanda"
             },
             {
                 teks: "ayo siaga jangan terlambat",
             },
             {
-                teks: "Banjir bandang datangnya sangat _________ ",
+                teks: "Banjir bandang datangnya sangat ____ ",
                 jawaban: "cepat"
             },
             {
-                teks: "Tinggalkan sungai naik ke _________ ",
+                teks: "Tinggalkan sungai naik ke ____ ",
                 jawaban: "dataran"
             },
             {
-                teks: "Lindungi _________ selamatkan teman",
+                teks: "Lindungi ____ selamatkan teman",
                 jawaban: "diri"
             },
             {
-                teks: "jangan buang _________ ke sungai",
+                teks: "jangan buang ____ ke sungai",
                 jawaban: "sampah"
             },
             {
-                teks: "bisa _________ aliran yang damai",
+                teks: "bisa ____ aliran yang damai",
                 jawaban: "menyumbat"
             },
             {
-                teks: "rawat _________ di pegunungan",
+                teks: "rawat ____ di pegunungan",
                 jawaban: "hutan"
             },
             {
